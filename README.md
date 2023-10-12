@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Mutyala</h1>
-<h3 align="center">Passionate deep learning engineer with a knack for unravelling complex data and building intelligent systems</h3>
-<img align = "right" alt = "coding" widht=400 src = "[(https://github.com/PavanMutyla/Pavan/assets/108520742/0e2cfbaa-34a7-4a4f-87d2-e1b88870ad12)](https://indusuni.ac.in/uploads/blogs/iite/Understanding%20the%20Hype%20Around%20Machine%20Learning.gif)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanmutyla&label=Profile%20views&color=0e75b6&style=flat" alt="pavanmutyla" /> </p>
 
